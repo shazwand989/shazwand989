@@ -1,57 +1,182 @@
-## 👨‍💻 Shazwan Danial
+<div align="center">
 
-### Full Stack Web Developer | System Builder | Coding Instructor
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Izwan%20Danial&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=60&descSize=20" width="100%"/>
 
-Saya seorang developer yang fokus kepada pembangunan sistem web yang praktikal, scalable dan mudah diselenggara. Dengan pengalaman dalam pembangunan aplikasi dari peringkat database sehingga ke antaramuka pengguna, saya membantu perniagaan dan organisasi membangunkan sistem yang menyelesaikan masalah sebenar.
+# 👋 Hey, I'm Izwan Danial
 
-### 🚀 Core Skills
+### Full-Stack Web Developer • Laravel Specialist • Web Systems Builder
 
-* PHP Development
-* Laravel Framework
-* MySQL Database Design & Optimization
-* Bootstrap 5 & Responsive UI Development
-* JavaScript, jQuery & AJAX
-* REST API Integration
-* React Native (Mobile App Development)
-* System Architecture & Database Design
-* Git & GitHub Version Control
-* Server Deployment & Configuration
-* Debugging & Performance Optimization
+<p>
+  <a href="https://shazwan-danial.com">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-shazwan--danial.com-2563eb?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/shazwand989">
+    <img src="https://img.shields.io/badge/GitHub-shazwand989-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
-### 🛠️ What I Build
+<img src="https://komarev.com/ghpvc/?username=shazwand989&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" />
 
-* Admin Management Systems
-* Booking & Reservation Systems
-* Membership Management Systems
-* Customer Management Systems (CRM)
-* Payment Integration Systems
-* Mobile Applications
-* Custom Business Solutions
-* API Development & Integration
+</div>
 
-### 💡 Strengths
+---
 
-* Strong problem-solving mindset
-* Fast learner and adaptable to new technologies
-* Focus on clean and maintainable code
-* Able to translate business requirements into working systems
-* Detail-oriented when troubleshooting and debugging
-* Practical approach to development with real-world usability in mind
+## 🧑‍💻 About Me
 
-### 🎓 Teaching & Mentoring
+I build websites and web systems that solve **real business problems**.
 
-Besides development, I also share knowledge and mentor students in web development, helping them understand modern technologies and industry best practices through hands-on learning.
+My work focuses on turning ideas and requirements into reliable, practical applications — from the database and backend to the frontend and production server.
 
-### 🤝 Working Style
+### What I work on
 
-* Clear communication
-* Solution-oriented approach
-* Reliable and responsible
-* Continuous improvement mindset
-* Focus on delivering results, not just writing code
+* 🌐 Business websites
+* ⚙️ Custom web applications
+* 📊 Admin dashboards
+* 💳 Payment gateway integrations
+* 🔗 API integrations
+* 🔐 Authentication & user management
+* ☁️ Linux server & deployment
+* 🚀 Laravel applications
 
-### 📌 Why Work With Me?
+---
 
-I don't just develop software — I build solutions that help businesses streamline operations, improve efficiency, and grow through technology. Every project is approached with a focus on functionality, scalability, and long-term maintainability.
+## 🛠️ Tech Stack
 
-**"Turning ideas into reliable digital solutions."** 🚀
+<div align="center">
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+
+### Tools & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,nginx,vscode" />
+
+</div>
+
+---
+
+## 🚀 What I Build
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Business Websites
+
+Professional websites designed around branding, usability and business goals.
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Custom Web Systems
+
+Applications built around specific business workflows and requirements.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 💳 Payment Integrations
+
+Connecting applications to payment providers and online transaction flows.
+
+</td>
+<td width="50%" valign="top">
+
+### ☁️ Deployment
+
+Linux servers, Nginx, application deployment and production environments.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=shazwand989&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shazwand989&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=shazwand989&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+## 🎯 Currently
+
+<div align="center">
+
+|      Building     |   Improving  |     Exploring    |
+| :---------------: | :----------: | :--------------: |
+|    Web Systems    | Architecture |        AI        |
+|    Laravel Apps   |  Performance |    Automation    |
+| Business Websites |      UX      |       SaaS       |
+|        APIs       |    DevOps    | New Technologies |
+
+</div>
+
+---
+
+## 💡 My Philosophy
+
+<div align="center">
+
+### Build useful things. Keep them simple. Make them work.
+
+<br>
+
+**Code → Product → Real-world Impact**
+
+</div>
+
+---
+
+## 🌐 Let's Work Together
+
+<div align="center">
+
+Have an idea for a website or web system?
+
+### Let's turn it into something real. 🚀
+
+<br>
+
+<a href="https://shazwan-danial.com">
+<img src="https://img.shields.io/badge/Visit%20My%20Website-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer" width="100%"/>
+
+</div>
